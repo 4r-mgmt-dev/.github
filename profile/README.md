@@ -1,11 +1,11 @@
-# 👋 Welcome to 4r Mgmt Consulting
+# Welcome to 4r Mgmt Consulting
 
-**Empowering success in the digital realm.**<br/>  
-We are a Germany-based IT consulting and development company dedicated to helping organizations grow through secure, scalable, and future-ready digital solutions.
+**Empowering success in the digital realm.**  
+  We are a Germany-based IT consulting and development company dedicated to helping organizations grow through secure, scalable, and future-ready digital solutions.
 
 ---
 
-## 🚀 What We Do
+## What we do
 
 We support clients of all sizes—from startups to global enterprises—by delivering:
 
@@ -29,13 +29,13 @@ IoT integration, AI-driven automation, and intelligent systems for operational e
 
 ---
 
-## 🌍 Our Vision
+## Our Vision
 
 To elevate businesses worldwide by architecting the digital landscape of tomorrow with pioneering solutions and a client-first philosophy.
 
 ---
 
-## 💡 Why Work With Us?
+## Why work with us?
 
 - Strategic test-driven development  
 - German engineering excellence in an agile environment  
@@ -45,7 +45,7 @@ To elevate businesses worldwide by architecting the digital landscape of tomorro
 
 ---
 
-## 📫 Get in Touch
+## Get in touch
 
 **Email:** service@4r-mgmt.com  
 **Address:** Pasinger Straße 1, 82166 Gräfelfing, Germany<br/>
